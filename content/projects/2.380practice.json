@@ -2,6 +2,6 @@
   "name": "380 Practice",
   "url":"https://380practice.fly.dev", 
   "description": "Run SQL to solve questions in the browser. Created to help my peers and myself in my class.",
-  "thumbnail": "",
+  "thumbnail": "/projects/380-icon.png",
   "status": "Active"
 }
