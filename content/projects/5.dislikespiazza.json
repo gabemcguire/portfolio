@@ -1,0 +1,7 @@
+{
+  "name": "Dislikes for Piazza™ - Chrome Extension",
+  "url":"https://chromewebstore.google.com/detail/dislikes-for-piazza/hjjaehpakdjeifogbiillkhdboiodacp", 
+  "description": "Chrome extension to add a dislike button to Piazza, the class forum, built with Express.js and MongoDB.",
+  "thumbnail": "/projects/piazza-dislike.png",
+  "status": "Active"
+}
